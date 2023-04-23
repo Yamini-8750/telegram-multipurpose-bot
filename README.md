@@ -11,7 +11,7 @@ This Python script generates a straightforward Telegram bot that enables users t
 4.Replace Your telegram bot token here in the script with the API token of your Telegram bot.
 5.Run the script using python <script_name>.py.
 
-#Usage 
+# Usage 
 Users can communicate with the bot on Telegram by sending commands and messages once it is operational. There are the following capabilities:
 
 1.Sends a welcome message and asks the user to choose a function with /start.
